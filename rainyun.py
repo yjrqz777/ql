@@ -133,12 +133,12 @@ class RainYun():
 if __name__ == '__main__':
     accounts = [
         {
-            "user": "yjrqz777",  # 账户
-            "password": "Cduan2001.."  # 密码
+            "user": "1111",  # 账户
+            "password": "11111.."  # 密码
         },
         {
-            "user": "yjrqz77",  # 账户
-            "password": "Cduan2001.."  # 密码
+            "user": "11111",  # 账户
+            "password": "111111.."  # 密码
         }
     ]
     for acc in accounts:
