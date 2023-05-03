@@ -8,7 +8,6 @@
  Cron： 13,43 8-18,23 * * *
 
  不支持多账号！不支持多账号！不支持多账号！多账号跑会有错误
-
  [task_local]
  #抖音极速版
  10,40 8-18,23 * * * https://raw.githubusercontent.com/LinYuanovo/scripts/main/dyjsb.js, tag=抖音极速版, enabled=true

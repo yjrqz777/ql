@@ -7,7 +7,6 @@
 cron 32 0/30 * * ?
 
 */
-
 const $ = new Env("抖音极速版");
 let envSplitor = ['\n']  //多账号隔开方式，默认换行可自定义
 
