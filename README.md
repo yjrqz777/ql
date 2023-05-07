@@ -4,7 +4,7 @@
 - [x] 可用
   - [x] aliyun: 阿里云盘每日签到
   - [x] chinaUnicom:中国联通手机营业厅一些任务
-  - [x] meituan: 美团领劵和一些自动任务
+  - [x] meituan: 美团领劵和一些自动任务，5.7增加: 团团神券签到/任务, APP-天天领金币[大佬的库](https://github.com/leafTheFish/DeathNote)
   - [x] miui: miuiver.com网站每日签到
   - [x] rainyun 雨云签到，（积分可提现）PS:这个签到，填好ck之后第二天就可以签到了。一天第一次登录不要验证，当时运行要登录验证不必担心
   - [x] nn nn加速器签到
