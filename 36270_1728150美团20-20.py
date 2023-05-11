@@ -48,3 +48,4 @@ while '成功' not in msg:
     time.sleep(0.03)
 else:
     print('领取成功，msg为：', msg)
+

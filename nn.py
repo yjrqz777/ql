@@ -86,7 +86,7 @@ def login(phone, passwd):
                 else:
                     sleep(0)
                     pass
-    notify.send("【nn加速器】", messages)
+    notify.send("nn加速器", messages)
 
 
 # 这里是多账号设置地方，单个账号就把账号2注释掉，多个账号自行增加代码
